@@ -1,0 +1,16 @@
+h1{
+    color: #21B6A8;
+}
+
+body{
+    background-color: #ededed;
+}
+
+.navbar-custom{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    background-color: #21B6A8;
+    margin: 5;
+}
